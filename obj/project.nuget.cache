@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0wnIigw5Gc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marol\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Terrandom\\Terrandom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marol\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

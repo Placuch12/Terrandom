@@ -1,0 +1,385 @@
+Items: {
+	VineHookItem: {
+		DisplayName: Pnączohak
+		Tooltip: ""
+	}
+
+	VineHook: {
+		Tooltip: ""
+		DisplayName: Pnączohak
+	}
+
+	MagnifyingGlass: {
+		DisplayName: Lupa
+		Tooltip:
+			'''
+			5% zwiększone obrażenia magiczne
+			5% większa szansa na magiczne trafienie krytyczne
+			'''
+	}
+
+	EnchantedYoyo: {
+		DisplayName: Zaczarowane Jojo
+		Tooltip: ""
+	}
+
+	SkullSmasher: {
+		DisplayName: Czachogniot
+		Tooltip: ""
+	}
+
+	BubbleStaff: {
+		DisplayName: Kostur Bąbelków
+		Tooltip: ""
+	}
+
+	Flint: {
+		DisplayName: Krzemień
+		Tooltip: ""
+	}
+
+	FrozenDroplet: {
+		DisplayName: Zamrożona Kropla
+		Tooltip: ""
+	}
+
+	JungleSap: {
+		DisplayName: Dżunglowa Żywica
+		Tooltip: ""
+	}
+
+	AncientTabelau: {
+		DisplayName: Starożytna Tabliczka
+		Tooltip: Pradawne runy Starszego Gamumuhta...
+	}
+
+	ElderGamumuhtBag: {
+		DisplayName: Torba Skarbów (Starszy Gamumuht)
+		Tooltip: ""
+	}
+
+	LeFisheAuChocolat: {
+		DisplayName: Pstrąg w Czekoladzie
+		Tooltip: Huraa pstrąg w czekoladzie!!
+	}
+
+	ElderGamumuhtTrophy: {
+		DisplayName: Trofeum - Starszy Gamumuht
+		Tooltip: ""
+	}
+
+	ElderGamumuhtRelic: {
+		DisplayName: Relikt Starszego Gamumuhta
+		Tooltip: ""
+	}
+
+	ElderGamumuhtMask: {
+		DisplayName: Maska - Starszy Gamumuht
+		Tooltip: ""
+	}
+
+	TranslatedRunes: {
+		DisplayName: Przetłumaczone Runy
+		Tooltip: jhjhhjhjhhjjhhjjhhjjjhhjj
+	}
+
+	ThrowingAxe: {
+		DisplayName: Rzucana Siekiera
+		Tooltip: ""
+	}
+
+	ZirconiumPants: {
+		DisplayName: Cyrkonowe Portki
+		Tooltip: "'Niezmiernie Konsekwencjonalne'"
+	}
+
+	SoulSucker: {
+		DisplayName: Wysysacz Dusz
+		Tooltip: ""
+	}
+
+	TransmutationTable: {
+		DisplayName: Stół Transmutacji
+		Tooltip: ""
+	}
+
+	HotelKeycard: {
+		DisplayName: Karta do Hotelu
+		Tooltip: Zwiększa maksymalną liczbę sług gracza o 1
+	}
+
+	CyanKeycard: {
+		DisplayName: Cyjanowa Karta do Hotelu
+		Tooltip:
+			'''
+			Zwiększa maksymalną liczbę sług gracza o 1
+			5% zwiększone obrażenia dystansowe
+			4% większa szansa na dystansowe trafienie krytyczne
+			'''
+	}
+
+	OrangeKeycard: {
+		DisplayName: Pomarańczowa Karta do Hotelu
+		Tooltip:
+			'''
+			Zwiększa maksymalną liczbę sług gracza o 1
+			5% zwiększone obrażenia w walce w zwarciu
+			4% większa szansa na trafienie krytyczne w walce w zwarciu
+			'''
+	}
+
+	PurpleKeycard: {
+		DisplayName: Fioletowa Karta do Hotelu
+		Tooltip:
+			'''
+			Zwiększa maksymalną liczbę sług gracza o 1
+			5% zwiększone obrażenia magiczne
+			4% większa szansa na magiczne trafienie krytyczne
+			'''
+	}
+
+	VIPKeycard: {
+		DisplayName: VIP Karta do Hotelu
+		Tooltip:
+			'''
+			Zwiększa maksymalną liczbę sług gracza o 2
+			9% zwiększone obrażenia
+			'''
+	}
+
+	RuneBlaster: {
+		DisplayName: Runoblaster
+		Tooltip: ""
+	}
+
+	GamumuhtBanner: {
+		DisplayName: Sztandar Gamumuhta
+		Tooltip: ""
+	}
+
+	Placeable: {
+		FinmootBanner: {
+			DisplayName: Sztandar Finmoota
+			Tooltip: ""
+		}
+
+		GamumuhtBanner: {
+			DisplayName: Sztandar Gamumuhta
+			Tooltip: ""
+		}
+
+		JamumuhtBanner: {
+			DisplayName: Sztandar Jamumuhta
+			Tooltip: ""
+		}
+
+		RotballBanner: {
+			// DisplayName: Rotball Banner
+			// Tooltip: ""
+		}
+	}
+
+	EldersEdge: {
+		DisplayName: Krawędź Starszego
+		Tooltip: ""
+	}
+
+	GuardianHeart: {
+		Tooltip: Zwiększona regeneracja zdrowia poniżej 50% PŻ
+		DisplayName: Serce Obrońcy
+	}
+
+	AeromuhtStaff: {
+		DisplayName: Chmurzasty Kostur
+		Tooltip: Przywołuje Aeromuhta aby ci pomógł w walce
+	}
+
+	ArchaeologistsCharm: {
+		DisplayName: Urok Archeologa
+		Tooltip:
+			'''
+			Permamentne Wyczuwanie Zagrożenia
+			10% zwiększona szybkość poruszania się
+			Zwiększa szybkość kopania o 10%
+			-20 maksymalnego zdrowia
+			'''
+	}
+
+	FlintThrowingKnife: {
+		DisplayName: Krzemienny Nóż do Rzucania
+		Tooltip: ""
+	}
+
+	ArchaeologistsAmulet: {
+		DisplayName: Amulet Archeologa
+		Tooltip:
+			'''
+			Permamentne Wyczuwanie Zagrożenia
+			15% zwiększona szybkość poruszania się
+			Zwiększa szybkość kopania o 15%
+			'''
+	}
+
+	SappyScythe: {
+		DisplayName: Żywiczna Kosa
+		Tooltip: ""
+	}
+
+	IcicleStaff: {
+		DisplayName: Kostur Sopli
+		Tooltip: Wystrzeliwuje przeszywający sopel
+	}
+
+	Voxelmask: {
+		DisplayName: Voxelmaska
+		Tooltip: "'Świetna do podszywania się pod voxelbugged!'"
+	}
+
+	SpikyCactus: {
+		DisplayName: Kolczasty Kaktus
+		Tooltip: ""
+	}
+
+	HeadPot: {
+		DisplayName: Garnek na Głowę
+		Tooltip: ""
+	}
+
+	SporeSprayer: {
+		DisplayName: Kostur Zarodników
+		Tooltip: ""
+	}
+
+	CactusBow: {
+		DisplayName: Kaktusowy Łuk
+		Tooltip: ""
+	}
+
+	MeteorBow: {
+		DisplayName: Meteorowy Łuk
+		Tooltip: ""
+	}
+
+	BoldAndBrash: {
+		DisplayName: Odważny i Zuchwały
+		Tooltip: "'S. Obłynos'"
+	}
+
+	Prickler: {
+		// DisplayName: Prickler
+		// Tooltip: ""
+	}
+
+	AshWoodClub: {
+		// DisplayName: Ash Wood Club
+		// Tooltip: ""
+	}
+
+	BorealWoodClub: {
+		// DisplayName: Boreal Wood Club
+		// Tooltip: ""
+	}
+
+	EbonwoodClub: {
+		// DisplayName: Ebonwood Club
+		// Tooltip: ""
+	}
+
+	PalmWoodClub: {
+		// DisplayName: Palm Wood Club
+		// Tooltip: ""
+	}
+
+	PearlwoodClub: {
+		// DisplayName: Pearlwood Club
+		// Tooltip: ""
+	}
+
+	RichMahoganyClub: {
+		// DisplayName: Rich Mahogany Club
+		// Tooltip: ""
+	}
+
+	ShadewoodClub: {
+		// DisplayName: Shadewood Club
+		// Tooltip: ""
+	}
+
+	WoodenClub: {
+		// DisplayName: Wooden Club
+		// Tooltip: ""
+	}
+
+	Drumstick: {
+		// DisplayName: Drumstick
+		// Tooltip: "'It is uncertain what kind of creature it comes from'"
+	}
+
+	Monolith: {
+		// DisplayName: Monolith
+		// Tooltip: ""
+	}
+
+	MechaSkullSmasher: {
+		// Tooltip: ""
+		// DisplayName: Mecha Skull Smasher
+	}
+}
+
+Projectiles: {
+	VineHookProjectile.DisplayName: Pnączohak
+	Bamboomerang.DisplayName: Bambumerang
+	EnchantedYoyoProjectile.DisplayName: Zaczarowane Jojo
+	SkullSmasherProjectile.DisplayName: Czachogniot
+	BubbleProjectile.DisplayName: Bąbelek
+	GamumuhtAxe.DisplayName: Siekiera Gamumuhta
+	JamumuhtTorch.DisplayName: Pochodnia Jamumuhta
+	FinmootSnowball.DisplayName: Śnieżka Finmoota
+	ElderGamumuhtAxe.DisplayName: Siekiera Starszego Gamumuhta
+	ThrowingAxeProjectile.DisplayName: Rzucana Siekiera
+	RuneE.DisplayName: Runa
+	RuneN.DisplayName: Runa
+	RuneR.DisplayName: Runa
+	RuneU.DisplayName: Runa
+	EldersEdgeProjectile.DisplayName: Duch Starszego
+	AeroAxe.DisplayName: Aero Siekiera
+	AeromuhtMinion.DisplayName: Aeromuht
+	FlintThrowingKnifeProjectile.DisplayName: Krzemienny Nóż do Rzucania
+	IcicleProjectile.DisplayName: Sopel
+	SpikyCactus.DisplayName: Kolczasty Kaktus
+	SpikyCactusProjectile.DisplayName: Kolczasty Kaktus
+	CactusSpike.DisplayName: Kolec Kaktusa
+	Spore.DisplayName: Zarodnik
+	ArmoredGamumuhtMace.DisplayName: Buzdygan Gamumuhta
+	ArmoredJamumuhtCoal.DisplayName: Gorący Węgiel
+	ArmoredFinmootIce.DisplayName: Lodowa Skała
+	// PricklerProjectile.DisplayName: Prickler
+	// Prickle.DisplayName: Prickle
+	// MechaSkullSmasherProjectile.DisplayName: Mecha Skull Smasher Projectile
+}
+
+NPCs: {
+	Gamumuht.DisplayName: Gamumuht
+	Jamumuht.DisplayName: Jamumuht
+	Finmoot.DisplayName: Finmoot
+	Gamumumuht.DisplayName: Gamumumuht
+
+	ElderGamumuht: {
+		DisplayName: Starszy Gamumuht
+		BossChecklistIntegration.SpawnInfo: Użyj [i:Terrandom/AncientTabelau]
+	}
+
+	Minimuht.DisplayName: Minimuht
+	ArmoredGamumuht.DisplayName: Uzbrojony Gamumuht
+	ArmoredFinmoot.DisplayName: Uzbrojony Finmoot
+	ArmoredJamumuht.DisplayName: Uzbrojony Jamumuht
+	Pyramind.DisplayName: Piramyśl
+	// Rotball.DisplayName: Rotball
+}
+
+Buffs: {
+	AeromuhtBuff: {
+		DisplayName: Aeromuht
+		Description: Mały Gamumuht na chmurce pomaga ci w walce
+	}
+}

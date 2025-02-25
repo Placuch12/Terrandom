@@ -1,0 +1,23 @@
+A collection of random bits and bobs to make your experience more pleasant by adding new Enemies, Bosses, Weapons, etc.
+
+Credits:
+
+PROGRAMMING
+Lead - Placuch
+Helping - voxelbugged, TheEgglet, tModLoader Discord Community
+
+TEXTURES
+Lead - Placuch, Mark19688
+Helping - voxelbugged
+
+FEEDBACK & SUPPORT
+TheEgglet
+voxelbugged
+Mark19688
+obsitsu
+stim
+GunnerTeam
+Vovka
+bones
+Silver369
+

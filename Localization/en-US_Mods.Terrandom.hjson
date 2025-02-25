@@ -1,0 +1,391 @@
+Items: {
+	VineHookItem: {
+		DisplayName: Vine Hook Item
+		Tooltip: ""
+	}
+
+	VineHook: {
+		Tooltip: ""
+		DisplayName: Vine Hook
+	}
+
+	MagnifyingGlass: {
+		DisplayName: Magnifying Glass
+		Tooltip:
+			'''
+			5% increased magic damage
+			5% increased magic critical chance
+			'''
+	}
+
+	EnchantedYoyo: {
+		DisplayName: Enchanted Yoyo
+		Tooltip: ""
+	}
+
+	SkullSmasher: {
+		DisplayName: Skull Smasher
+		Tooltip: ""
+	}
+
+	BubbleStaff: {
+		DisplayName: Bubble Staff
+		Tooltip: ""
+	}
+
+	Flint: {
+		DisplayName: Flint
+		Tooltip: ""
+	}
+
+	FrozenDroplet: {
+		DisplayName: Frozen Droplet
+		Tooltip: ""
+	}
+
+	JungleSap: {
+		DisplayName: Jungle Sap
+		Tooltip: ""
+	}
+
+	AncientTabelau: {
+		DisplayName: Ancient Tabelau
+		Tooltip: Ancient runes of the Elder Gamumuht...
+	}
+
+	ElderGamumuhtBag: {
+		DisplayName: Treasure Bag (Elder Gamumuht)
+		Tooltip: ""
+	}
+
+	LeFisheAuChocolat: {
+		DisplayName: Le Fishe Au Chocolat
+		Tooltip: How did you get that? It was a placeholder item
+	}
+
+	ElderGamumuhtTrophy: {
+		DisplayName: Elder Gamumuht Trophy
+		Tooltip: ""
+	}
+
+	ElderGamumuhtRelic: {
+		DisplayName: Elder Gamumuht Relic
+		Tooltip: ""
+	}
+
+	ElderGamumuhtMask: {
+		DisplayName: Elder Gamumuht Mask
+		Tooltip: ""
+	}
+
+	TranslatedRunes: {
+		DisplayName: Translated Runes
+		Tooltip:
+			'''
+			A strange cult attempted to summon a celestial being. We tried stopping them peacefully,
+			but they didnt listen. As a last resort we attacked them to stop the summoning. We
+			successfully banished them to the dungeon, however, most of our men are dead, while the ones who 
+			survived have been cursed and only remember how to wield their weapons.
+			'''
+	}
+
+	ThrowingAxe: {
+		DisplayName: Throwing Axe
+		Tooltip: ""
+	}
+
+	ZirconiumPants: {
+		DisplayName: Zirconium Pants
+		Tooltip: "'Consequential enough to slip you into a trance'"
+	}
+
+	SoulSucker: {
+		DisplayName: Soul Sucker
+		Tooltip: ""
+	}
+
+	TransmutationTable: {
+		DisplayName: Transmutation Table
+		Tooltip: ""
+	}
+
+	HotelKeycard: {
+		DisplayName: Hotel Keycard
+		Tooltip: Increases your max number of minions by 1
+	}
+
+	CyanKeycard: {
+		DisplayName: Cyan Keycard
+		Tooltip:
+			'''
+			Increases your max number of minions by 1
+			5% increased ranged damage
+			4% increased ranged critical chance
+			'''
+	}
+
+	OrangeKeycard: {
+		DisplayName: Orange Keycard
+		Tooltip:
+			'''
+			Increases your max number of minions by 1
+			5% increased melee damage
+			4% increased melee critical chance
+			'''
+	}
+
+	PurpleKeycard: {
+		DisplayName: Purple Keycard
+		Tooltip:
+			'''
+			Increases your max number of minions by 1
+			5% increased magic damage
+			4% increased magic critical chance
+			'''
+	}
+
+	VIPKeycard: {
+		DisplayName: VIP Keycard
+		Tooltip:
+			'''
+			Increases your max number of minions by 2
+			9% increased damage
+			'''
+	}
+
+	RuneBlaster: {
+		DisplayName: Rune Blaster
+		Tooltip: ""
+	}
+
+	GamumuhtBanner: {
+		DisplayName: Gamumuht Banner
+		Tooltip: ""
+	}
+
+	Placeable: {
+		FinmootBanner: {
+			DisplayName: Finmoot Banner
+			Tooltip: ""
+		}
+
+		GamumuhtBanner: {
+			DisplayName: Gamumuht Banner
+			Tooltip: ""
+		}
+
+		JamumuhtBanner: {
+			DisplayName: Jamumuht Banner
+			Tooltip: ""
+		}
+
+		RotballBanner: {
+			DisplayName: Rotball Banner
+			Tooltip: ""
+		}
+	}
+
+	EldersEdge: {
+		DisplayName: Elder's Edge
+		Tooltip: ""
+	}
+
+	GuardianHeart: {
+		Tooltip: Increased health regeneration below 50% HP
+		DisplayName: Guardian Heart
+	}
+
+	AeromuhtStaff: {
+		DisplayName: Cloudy Staff
+		Tooltip: Summons an Aeromuht to fight for you
+	}
+
+	ArchaeologistsCharm: {
+		DisplayName: Archaeologist's Charm
+		Tooltip:
+			'''
+			Permament Dangersense
+			+10% movement speed
+			+10% mining speed
+			-20 max life
+			'''
+	}
+
+	FlintThrowingKnife: {
+		DisplayName: Flint Throwing Knife
+		Tooltip: ""
+	}
+
+	ArchaeologistsAmulet: {
+		DisplayName: Archaeologist's Amulet
+		Tooltip:
+			'''
+			Permament Dangersense
+			+15% movement speed
+			+15% mining speed
+			'''
+	}
+
+	SappyScythe: {
+		DisplayName: Sappy Scythe
+		Tooltip: ""
+	}
+
+	IcicleStaff: {
+		DisplayName: Icicle Staff
+		Tooltip: Shoots a piercing icicle
+	}
+
+	Voxelmask: {
+		DisplayName: Voxelmask
+		Tooltip: "'Great for impersonating voxelbugged!'"
+	}
+
+	SpikyCactus: {
+		DisplayName: Spiky Cactus
+		Tooltip: ""
+	}
+
+	HeadPot: {
+		DisplayName: Head Pot
+		Tooltip: ""
+	}
+
+	SporeSprayer: {
+		DisplayName: Spore Sprayer
+		Tooltip: ""
+	}
+
+	CactusBow: {
+		DisplayName: Cactus Bow
+		Tooltip: ""
+	}
+
+	MeteorBow: {
+		DisplayName: Meteor Bow
+		Tooltip: ""
+	}
+
+	BoldAndBrash: {
+		DisplayName: Bold And Brash
+		Tooltip: "'S. Tentacles'"
+	}
+
+	Prickler: {
+		DisplayName: Prickler
+		Tooltip: ""
+	}
+
+	AshWoodClub: {
+		DisplayName: Ash Wood Club
+		Tooltip: ""
+	}
+
+	BorealWoodClub: {
+		DisplayName: Boreal Wood Club
+		Tooltip: ""
+	}
+
+	EbonwoodClub: {
+		DisplayName: Ebonwood Club
+		Tooltip: ""
+	}
+
+	PalmWoodClub: {
+		DisplayName: Palm Wood Club
+		Tooltip: ""
+	}
+
+	PearlwoodClub: {
+		DisplayName: Pearlwood Club
+		Tooltip: ""
+	}
+
+	RichMahoganyClub: {
+		DisplayName: Rich Mahogany Club
+		Tooltip: ""
+	}
+
+	ShadewoodClub: {
+		DisplayName: Shadewood Club
+		Tooltip: ""
+	}
+
+	WoodenClub: {
+		DisplayName: Wooden Club
+		Tooltip: ""
+	}
+
+	Drumstick: {
+		DisplayName: Drumstick
+		Tooltip: "'It is uncertain what kind of creature it comes from'"
+	}
+
+	Monolith: {
+		DisplayName: Monolith
+		Tooltip: ""
+	}
+
+	MechaSkullSmasher: {
+		Tooltip: ""
+		DisplayName: Mecha Skull Smasher
+	}
+}
+
+Projectiles: {
+	VineHookProjectile.DisplayName: Vine Hook
+	Bamboomerang.DisplayName: Bamboomerang
+	EnchantedYoyoProjectile.DisplayName: Enchanted Yoyo
+	SkullSmasherProjectile.DisplayName: Skull Smasher
+	BubbleProjectile.DisplayName: Bubble
+	GamumuhtAxe.DisplayName: Gamumuht's Axe
+	JamumuhtTorch.DisplayName: Jamumuht's Torch
+	FinmootSnowball.DisplayName: Finmoot's Snowball
+	ElderGamumuhtAxe.DisplayName: Elder Gamumuht's Axe
+	ThrowingAxeProjectile.DisplayName: Throwing Axe
+	RuneE.DisplayName: Rune
+	RuneN.DisplayName: Rune
+	RuneR.DisplayName: Rune
+	RuneU.DisplayName: Rune
+	EldersEdgeProjectile.DisplayName: Elder's Spirit
+	AeroAxe.DisplayName: Aero Axe
+	AeromuhtMinion.DisplayName: Aeromuht
+	FlintThrowingKnifeProjectile.DisplayName: Flint Throwing Knife
+	IcicleProjectile.DisplayName: Icicle
+	SpikyCactus.DisplayName: Spiky Cactus
+	SpikyCactusProjectile.DisplayName: Spiky Cactus
+	CactusSpike.DisplayName: Cactus Spike
+	Spore.DisplayName: Spore
+	ArmoredGamumuhtMace.DisplayName: Gamumuht Mace
+	ArmoredJamumuhtCoal.DisplayName: Hot Coal
+	ArmoredFinmootIce.DisplayName: Icy Rock
+	PricklerProjectile.DisplayName: Prickler
+	Prickle.DisplayName: Prickle
+	MechaSkullSmasherProjectile.DisplayName: Mecha Skull Smasher Projectile
+}
+
+NPCs: {
+	Gamumuht.DisplayName: Gamumuht
+	Jamumuht.DisplayName: Jamumuht
+	Finmoot.DisplayName: Finmoot
+	Gamumumuht.DisplayName: Gamumumuht
+
+	ElderGamumuht: {
+		DisplayName: Elder Gamumuht
+		BossChecklistIntegration.SpawnInfo: Use a [i:Terrandom/AncientTabelau]
+	}
+
+	Minimuht.DisplayName: Minimuht
+	ArmoredGamumuht.DisplayName: Armored Gamumuht
+	ArmoredFinmoot.DisplayName: Armored Finmoot
+	ArmoredJamumuht.DisplayName: Armored Jamumuht
+	Pyramind.DisplayName: Pyramind
+	Rotball.DisplayName: Rotball
+}
+
+Buffs: {
+	AeromuhtBuff: {
+		DisplayName: Aeromuht Buff
+		Description: A little Gamumuht on a cloud is helping you in battle
+	}
+}
